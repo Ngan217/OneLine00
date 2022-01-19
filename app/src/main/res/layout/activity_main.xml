@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context=".MainActivity"
+    android:layout_centerInParent="true">
+
+
+    <com.example.oneline.GraphicsViewMain
+        android:id="@+id/mainscreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bgmain"></com.example.oneline.GraphicsViewMain>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="135dp"
+            android:backgroundTintMode="src_atop"
+            android:text="OneLine"
+            android:textColor="#0E579B"
+            android:textSize="70dp"
+            android:textStyle="bold|italic"></TextView>
+        /*android:background="@drawable/custom_textname"*/
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/custom_button"
+            android:text="@string/start_game"
+            android:textSize="26dp"
+            ></Button>
+
+        <Button
+            android:id="@+id/btnOption"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="@string/option"
+            android:textSize="26dp"></Button>
+
+        <Button
+            android:id="@+id/btnQuit"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="@string/quit"
+            android:textSize="26dp"></Button>
+    </LinearLayout>
+
+
+</RelativeLayout>

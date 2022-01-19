@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_buttonlevel.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_checkbox.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_dialog.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_dialog_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_dialog_textview.xml" value="0.15648148148148147" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_iconback.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/custom_textname.xml" value="0.2703125" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/node.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/drawable/stroke.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/activity_choose_level.xml" value="0.264" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/activity_level1.xml" value="0.264" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/activity_level2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/activity_option.xml" value="0.2" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/layout/layout_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/mipmap-anydpi-v26/ic_launcher_iconmenu.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/activity_choose_level.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/activity_level1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/activity_main.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/activity_option.xml" value="0.264" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/THANH NGAN/Desktop/Nhom11_BTAndroid/OneLine_61/1_7_oneline/_1LineGame/app/src/main/res/layout/layout_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/activity_choose_level.xml" value="0.1" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/activity_level1.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/activity_level2.xml" value="0.2421875" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/activity_main.xml" value="0.2265625" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/activity_option.xml" value="0.2265625" />
+        <entry key="..\:/Users/ZEPHYRUS/OneDrive - Hochiminh City University of Education/Desktop/Oneline_n-main/app/src/main/res/layout/layout_dialog.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

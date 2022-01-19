@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneLine</string>
+    <string name="start_game">Bắt Đầu</string>
+    <string name="option">Cài Đặt</string>
+    <string name="quit">Thoát Game</string>
+    <string name="level1">Màn 1</string>
+    <string name="pause">Tạm Dừng</string>
+    <string name="music">Nhạc Nền</string>
+    <string name="sound">Âm Thanh</string>
+    <string name="language">Ngôn Ngữ</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="english">Tiếng Anh</string>
+</resources>
